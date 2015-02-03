@@ -100,6 +100,7 @@
   kragniz = "Louis Taylor <kragniz@gmail.com>";
   ktosiek = "Tomasz Kontusz <tomasz.kontusz@gmail.com>";
   lethalman = "Luca Bruno <lucabru@src.gnome.org>";
+  lfont = "Loïc Fontaine <loicfontaine@fastmail.fm>";
   lhvwb = "Nathaniel Baxter <nathaniel.baxter@gmail.com>";
   linquize = "Linquize <linquize@yahoo.com.hk>";
   lovek323 = "Jason O'Conal <jason@oconal.id.au>";

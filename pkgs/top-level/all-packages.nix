@@ -10568,6 +10568,8 @@ let
     gtk = gtk2;
   };
 
+  lxmenu-data = callPackage ../data/misc/lxmenu-data { };
+
   lynx = callPackage ../applications/networking/browsers/lynx { };
 
   lyx = callPackage ../applications/misc/lyx { };
