@@ -96,6 +96,7 @@ in {
           -Dairsonic.home=${cfg.home} \
           -Dserver.address=${cfg.listenAddress} \
           -Dserver.port=${toString cfg.port} \
+          -Dserver.use-forward-headers=true \
           -Dairsonic.contextPath=${cfg.contextPath} \
           -Djava.awt.headless=true \
           -verbose:gc \
